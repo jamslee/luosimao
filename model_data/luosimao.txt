@@ -1,0 +1,4 @@
+rect
+circle
+star
+triangle
